@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif width="220">
+    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220">
     <h1 align="center">Hi 👋, I'm Maximo</h1>
     <h3 align="center">I am a passionate web developer from Peru, who enjoys soccer and has a continuous learning mindset. I am always looking for new ways to improve my work and expand my skills in the field of technology.</h3>
 </div>
