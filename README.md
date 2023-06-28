@@ -15,7 +15,7 @@
 
 - How to contact me **maximo2188@hotmail.com** 📨
 
-- I am currently learning **Bootstrap, Laravel y SQL** 🌱
+- I am currently learning **TailwindCSS, React y SQL** 🌱
 
 
 <div align="left">
