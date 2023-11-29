@@ -12,7 +12,7 @@
 
 ### 💻🔍 About Me :
 
-🌱 I am currently learning React | Full Stack Web Development | Mobile Application Development | cyber security
+🌱 I am currently learning VueJs | Full Stack Web Development | Mobile Application Development | cyber security
 
 👯 Looking to collaborate on machine learning and web development projects 
 
