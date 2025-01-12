@@ -1,15 +1,10 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220">
     <h1 align="center">¡Hola 👋, Soy Máximo!</h1>
     ❤️ Programación | 🥊 Boxeo | 🎮 Videojuegos |
     <h3 align="center">Soy un estudiante apasionado de <strong>Desarrollo de Sistemas de la Información</strong> de Perú, con un enfoque en tecnología, aprendizaje continuo y crecimiento profesional. Siempre busco nuevas formas de mejorar mis habilidades y contribuir al desarrollo tecnológico.</h3>
 </div>
 
 ---
-
-<div id="about-me" align="center">
-    <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width="350" height="200">
-</div>
 
 ### 💻🔍 Sobre Mí:
 
