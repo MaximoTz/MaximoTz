@@ -1,32 +1,41 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="220">
-    <h1 align="center">Hi 👋, I'm Maximo</h1>
-    ❤️ Programming | ⚽soccer | 🎮 Video Game |
-    <h3 align="center">I am a passionate web developer from Peru, who enjoys soccer and has a continuous learning mindset. I am always looking for new ways to improve my work and expand my skills in the field of technology.</h3>
+    <h1 align="center">¡Hola 👋, Soy Máximo!</h1>
+    ❤️ Programación | 🥊 Boxeo | 🎮 Videojuegos |
+    <h3 align="center">Soy un estudiante apasionado de <strong>Desarrollo de Sistemas de la Información</strong> de Perú, con un enfoque en tecnología, aprendizaje continuo y crecimiento profesional. Siempre busco nuevas formas de mejorar mis habilidades y contribuir al desarrollo tecnológico.</h3>
 </div>
 
 ---
+
 <div id="about-me" align="center">
     <img src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif" width="350" height="200">
 </div>
 
-### 💻🔍 About Me :
+### 💻🔍 Sobre Mí:
 
-🌱 I am currently learning VueJs | Full Stack Web Development | Mobile Application Development | cyber security
+🌱 Actualmente estoy aprendiendo **Java**, desarrollando proyectos en **Python** y fortaleciendo mis conocimientos en **SQL Server**.  
 
-👯 Looking to collaborate on machine learning and web development projects 
+🎯 Estoy interesado en colaborar en proyectos relacionados con sistemas de gestión, automatización y aplicaciones de escritorio.  
 
-💬 Ask me about anything. I will try to help you as much as I can.
+⚡ **Frase favorita:** "Si puedes imaginarlo, puedes programarlo."
 
-⚡ Phrase: If you can imagine it, you can program it!
+---
 
 <div align="left">
-    <h3>Languages and tools:</h3>
+    <h3>Lenguajes y Herramientas:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL Server" alt="SQL Server" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Excel_2019-logo.svg" title="Excel" alt="Excel" width="40" height="40">
     </div>
 </div>
+
+---
+
+### 📫 Cómo Contactarme:
+
+- **Correo Electrónico:** maximo2188@hotmail.com  
+- **LinkedIn:** [Máximo Tinoco Zárate](https://www.linkedin.com/in/maximotz/) 
