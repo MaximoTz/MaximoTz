@@ -27,9 +27,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL Server" alt="SQL Server" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Excel_2019-logo.svg" title="Excel" alt="Excel" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQLServer" alt="SQLServer" width="40" height="40">
     </div>
 </div>
 
